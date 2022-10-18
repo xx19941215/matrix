@@ -3,11 +3,16 @@
 # Usage
 > php artisan export:matrix filePath
 
-eg:
+usage command forexample:
 
 > php artisan export:matrix plasmid.xlsx
 
-# File format
+The input file needs to be placed in the following directory: path_to_app/storage
+
+The out file will appear in the following directory:
+path_to_app/storage/app/tmp/command-excel
+
+# File Format
 
  [Input](storage/plasmid.xlsx)
 
