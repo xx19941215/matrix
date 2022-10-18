@@ -7,10 +7,10 @@ usage command forexample:
 
 > php artisan export:matrix plasmid.xlsx
 
-The input file needs to be placed in the following directory: path_to_app/storage
+The input file needs to be placed in the following directory: [storage](storage)
 
 The out file will appear in the following directory:
-path_to_app/storage/app/tmp/command-excel
+[storage/app/tmp/command-excel](storage/app/tmp/command-excel)
 
 # File Format
 
